@@ -1,0 +1,28 @@
+{
+  "name": "chess-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Asif99/Chess-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Asif99/Chess-Game/issues"
+  },
+  "homepage": "https://github.com/Hamza-Asif99/Chess-Game#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fastify": "^4.21.0",
+    "fastify-socket.io": "^4.0.0",
+    "helmet": "^7.0.0",
+    "jest": "^29.6.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
